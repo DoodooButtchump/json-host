@@ -1,11 +1,4 @@
 {
-  "name": "Walter",
-  "favorite_movies": ["Alien", "The Thing", "Halloween"],
-  "active": true
-}
-
-
-{
     "ok": true,
     "list": {
         "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
@@ -63,4 +56,5 @@
             }
         ]
     }
+
 }
